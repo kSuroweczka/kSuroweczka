@@ -1,24 +1,19 @@
-### Hi, I am Karolina!
-
+# Hi, I am Karolina!
 
 - 📫 How to reach me: karsur@student.agh.edu.pl or karolinasurowka02@gmail.com
 
-# About me
+## About me
 
 I am 21 years old student. I am currently in my third year of studies in the field of [Computer Science and Intelligent Systems](https://sylabusy.agh.edu.pl/pl/1/2/19/1/4/16/140) at AGH University of Science and Technology in Cracow. My strength is solving problems, especially mathematical and programming ones.
 
 
 # Technologies
-* Python
-* Java
-* C++
-* PostgreSQL
-* JavaScript
-* TypeScript
-* UML
-* HTML
-* CSS
-* Github
+<img width="96" height="96" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-python-an-interpreted-high-level-general-purpose-programming-language-logo-color-tal-revivo.png" alt="external-python-an-interpreted-high-level-general-purpose-programming-language-logo-color-tal-revivo"/><img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/java-coffee-cup-logo.png" alt="java-coffee-cup-logo"/><img width="96" height="96" src="https://img.icons8.com/fluency/96/c-plus-plus-logo.png" alt="c-plus-plus-logo"/><img width="96" height="96" src="https://img.icons8.com/color/96/postgreesql.png" alt="postgreesql"/><img width="128" height="128" src="https://img.icons8.com/arcade/128/javascript.png" alt="javascript"/><img width="96" height="96" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo.png" alt="external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo"/><img width="96" height="96" src="https://img.icons8.com/color/96/html-5--v2.png" alt="html-5--v2"/><img width="100" height="100" src="https://img.icons8.com/stickers/100/css3.png" alt="css3"/><img width="96" height="96" src="https://img.icons8.com/color/96/tensorflow.png" alt="tensorflow"/><img width="96" height="96" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo.png" alt="external-angular-a-typescript-based-open-source-web-application-framework-logo-shadow-tal-revivo"/><img width="96" height="96" src="https://img.icons8.com/nolan/96/github.png" alt="github"/><img width="96" height="96" src="https://img.icons8.com/color/96/git.png" alt="git"/><img width="96" height="96" src="https://img.icons8.com/color/96/gitlab.png" alt="gitlab"/>
+
+
+
+
+
 
 
 # Projects
